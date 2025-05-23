@@ -1,5 +1,5 @@
 # Ex05 Image Carousel
-## Date:
+## Date:23/03/25
 
 ## AIM
 To create a Image Carousel using React 
@@ -46,8 +46,8 @@ import React, { useState } from "react";
 import "./App.css";
 
 const images = [
-  "Screenshot 2025-05-19 160303.png",
   "Screenshot 2025-05-19 161357.png",
+  "Screenshot 2025-05-19 160303.png",
   "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=800&q=80", 
   "Screenshot 2025-05-19 160623.png", 
   "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=800&q=80",
@@ -91,7 +91,7 @@ export default function App() {
         <button onClick={next}>Next</button>
       </div>
       <footer>
-        <p>Designed By: TARANIKKA A 212223220115</p>
+        <p>Designed By: TARANIKKA A  -  212223220115</p>
       </footer>
     </div>
   );
@@ -203,7 +203,8 @@ footer p {
 
 ## OUTPUT
 
-![IMAGE CAROUSEL](https://github.com/user-attachments/assets/0488210c-34c0-41bf-a2da-3e8687604811)
+![Screenshot (28)](https://github.com/user-attachments/assets/e48656ca-7815-4c5b-b941-366e9e803114)
+
 
 
 ## RESULT
