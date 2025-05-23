@@ -91,7 +91,7 @@ export default function App() {
         <button onClick={next}>Next</button>
       </div>
       <footer>
-        <p>2025 SPACE IMAGE CAROUSEL</p>
+        <p>Designed By: TARANIKKA A 212223220115</p>
       </footer>
     </div>
   );
